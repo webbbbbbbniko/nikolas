@@ -1,35 +1,4 @@
 
-
-}
-
-.logo a {
-    font-size: 45px;
-    font-weight: auto;
-    float: left;
-    font-family: courier;
-    color: #241ba0;
-}
-
-.menu {
-    float:  right;
-}
-
-nav {
-    width: auto;
-    margin: auto;
-    display: flex;
-    line-height: 100px;
-    position: sticky;
-    position: webkit-sticky;
-    top: 0;
-    background: #ffff;
-}
-
-NAv ul{
-    list-style-type:  none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
 }
 
 nav ul li {
