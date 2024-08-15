@@ -1,40 +1,6 @@
 
 }
 
-nav ul li {
-    float: left;
-}
-
-nav ul li {
-    color:  black;
-    font-weight: bold;
-    text-align: center;
-    padding: 0px 16px 0px 16px;
-    text-decoration: none;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
-}
-
-section {
-    margin: auto;
-    display: auto;
-    margin-bottom: auto;
-}
-
-.kolom {
-    margin: 50px;
-    margin-bottom: 50px;
-}
-
-.kolom.deskripsi {
-    font-size: 20px;
-    font-weight: auto;
-    font-family: 'comic sans ms';
-    color: #d6bbbb;
-}
-
 h2 {
     font-family: 'comic sans ms';
     font-weight: 800;
