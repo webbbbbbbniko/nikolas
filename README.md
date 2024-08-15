@@ -1,36 +1,6 @@
 
 }
 
-h2 {
-    font-family: 'comic sans ms';
-    font-weight: 800;
-    font-size: 15px;
-    color: #0a7018;
-    width: 100%;
-    line-height: 50px;
-
-}
-
-a.tbl-biru{
-    background: #0516ad;
-    border-radius: 20px;
-    margin-top: 20px;
-    padding: 15px 20px 15px 20px ;
-    color: #ffffff;
-    cursor: pointer; 
-font-weight: bold;  
-} 
-
-a,tbl-biru:hover{
-        background: #ebe2e3;
-}
-
-
-p{
-    margin: 10px 0px 10px 10px;
-    padding: 10px 0px 10px 0px; 
-}
-
 
 <!DOCTYPE html>
 <html lang="en">
