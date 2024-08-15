@@ -1,11 +1,3 @@
-# nikolas
-web
-[Uploadi*{
-    text-decoration: none;
-    margin: 1px;
-    padding: 0px;
-
-}
 body{
     margin: 0px;
     padding: 0px;
