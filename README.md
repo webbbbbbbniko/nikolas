@@ -1,13 +1,4 @@
-body{
-    margin: 0px;
-    padding: 0px;
-    font-family:'open sans',sans-serif
-}
 
-.wrapper{
-    width: 1000px;
-    margin: auto;
-    Position: Relative;
 
 }
 
