@@ -64,7 +64,7 @@
 
 9    Hidup adalah Cerminan Diri
 
-      “Hidup adalah cermin dan akan merefleksikan kembali kepada para pemikir mengenai apa yang mereka pikirkan.” - Ernest Holmes. 
+      “Hidup adalah cermin dan akan merefleksikan kembali kepada para pemikir mengenai apa yang mereka pikirkan.” 
 
 10. Jalani Hidup Apa Adanya
  “      Aku memiliki filosofi yang sederhana: isi apa yang kosong, kosongkan apa yang terlalu penuh.” - Alice Roosevelt Longworth.
