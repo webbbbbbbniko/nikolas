@@ -62,12 +62,12 @@
 8. Biarkan Kehidupan Mengalir seperti Air
 “Hidup adalah serangkaian perubahan yang alami dan spontan. Jangan tolak mereka karena itu hanya membuat penyesalan dan duka. Biarkan realita menjadi realita. Biarkan sesuatu mengalir dengan alami ke manapun mereka suka.
 
-9 Hidup adalah Cerminan Diri
+9    Hidup adalah Cerminan Diri
 
-“Hidup adalah cermin dan akan merefleksikan kembali kepada para pemikir mengenai apa yang mereka pikirkan.” - Ernest Holmes. 
+    “Hidup adalah cermin dan akan merefleksikan kembali kepada para pemikir mengenai apa yang mereka pikirkan.” - Ernest Holmes. 
 
-11. Jalani Hidup Apa Adanya
- “Aku memiliki filosofi yang sederhana: isi apa yang kosong, kosongkan apa yang terlalu penuh.” - Alice Roosevelt Longworth.
+10. Jalani Hidup Apa Adanya
+ “    Aku memiliki filosofi yang sederhana: isi apa yang kosong, kosongkan apa yang terlalu penuh.” - Alice Roosevelt Longworth.
 
 
 
