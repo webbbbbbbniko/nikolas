@@ -38,28 +38,48 @@
       <img src="https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040425.jpg?ga=GA1.1.253747705.1723198878&semt=ais_hybrid"/> 
       
                 
-** <h2>1. Hidup Ini Sederhana, Jangan Dibikin Rumit 
-   “Hidup itu sederhana, kita yang membuatnya sulit.” – Confucius.
+** <h2>1. Hidup Ini Sederhana, Jangan Dibikin Rumit @@@
+   “Hidup itu sederhana, kita yang membuatnya sulit.
 
-Tips: Hidup itu sederhana jika menjalaninya dengan kegembiraan dan kebahagiaan. Jalani saja porsi hidupmu dan tidak ikut campur dalam kehidupan orang lain. Sederhana bukan? Tapi terkadang kamu terlalu masuk dalam urusan orang lain yang bukan bagian dari hidupmu, sehingga hidup terasa begitu berat dan rumit.
   2. Bahagia adalah Segalanya
 “Hal yang paling penting adalah menikmati hidupmu, menjadi bahagia, apapun yang terjadi.” - Audrey Hepburn.
+
 3. Hidup Bukan Soal Mencari Jati Diri
-      . Hidup itu bukan soal menemukan diri sendiri, hidup itu membuat diri kamu sendiri.” -George Bernard Shaw.
+    Hidup itu bukan soal menemukan diri sendiri, hidup itu membuat diri kamu sendiri.” -George Bernard Shaw.
 
 4. Hidup adalah Panggung Sandiwara Nyata
    “Hidup adalah mimpi bagi mereka yang bijaksana, permainan bagi mereka yang bodoh, komedi bagi mereka yang kaya, dan tragedi bagi mereka yang miskin.” - Sholom Aleichem.
+
 5. Hidup Penuh Misteri
     “Kenyataannya, ada tidak tahu apa yang akan terjadi besok. Hidup adalah pengendaraan yang gila dan tidak ada yang menjaminnya.” – Eminem.
+
  6. Tujuan Hidup adalah Bahagia
    “Tujuan hidup kita adalah menjadi bahagia.” - Dalai Lama.
+
 7. Cinta dan Ilmu Pengetahuan Bikin Hidup Lebih Baik
    “Hidup yang baik adalah hidup yang diinspirasi oleh cinta dan dipandu oleh ilmu pengetahuan.” - Bertrand Russell.
+
 8. Biarkan Kehidupan Mengalir seperti Air
 “Hidup adalah serangkaian perubahan yang alami dan spontan. Jangan tolak mereka karena itu hanya membuat penyesalan dan duka. Biarkan realita menjadi realita. Biarkan sesuatu mengalir dengan alami ke manapun mereka suka.
+
 9 Hidup adalah Cerminan Diri
+
 “Hidup adalah cermin dan akan merefleksikan kembali kepada para pemikir mengenai apa yang mereka pikirkan.” - Ernest Holmes. 
+
 11. Jalani Hidup Apa Adanya
  “Aku memiliki filosofi yang sederhana: isi apa yang kosong, kosongkan apa yang terlalu penuh.” - Alice Roosevelt Longworth.
- </h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+   </h2>
 **
