@@ -12,7 +12,7 @@
             <div class="logo"><a href=''>NIkolas Tambunan</a></div>
             <div class="menu">
                 <ul>
-                    <li><a href="#home">penelitian</a></li>
+                    <li><a href="#home">penelitian< nikolasfgehfgvbegavbakjvbakhaevbjevbgeljgvbaejlgbaglabgvajlgvbaelgjbaejlgbaejgaegaehdtjwrj/a></li>
                     <li><a href="#Foto">Foto</a></li>
                     <li><a href="#keluarga">keluarga</a></li>
                     <li><a href="#sekolah">sekolah</a></li>
