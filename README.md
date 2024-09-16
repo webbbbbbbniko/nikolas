@@ -68,22 +68,5 @@
 
 10. Jalani Hidup Apa Adanya
  “      Aku memiliki filosofi yang sederhana: isi apa yang kosong, kosongkan apa yang terlalu penuh.” - Alice Roosevelt Longworth.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     </h2>
+        </h2>
 **
